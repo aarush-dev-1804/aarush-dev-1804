@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aarush-dev-1804
+- 👋 Hi, I’m @Aarush_Bharadwaj
 - 👀 I’m interested in coding games and programs
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on currently nothing
